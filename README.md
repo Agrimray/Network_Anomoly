@@ -1,5 +1,5 @@
 # Network_Anomoly
-# Python Network Intrusion Detection System (NIDS)
+# Python Network Analyser System (GUI based Real time monitoring)
 
 This is a Python-based Network Intrusion Detection System (NIDS) with a graphical interface using **Tkinter**, real-time packet capture using **TShark**, and **machine learning (scikit-learn)** for attack detection. The system includes live session extraction and graphical visualizations.
 
